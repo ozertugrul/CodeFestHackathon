@@ -1,15 +1,15 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/abdullahdgn06/CodeFestHackathon/refs/heads/main/img/logo.png" align="center" width="30%">
+    <img src="https://raw.githubusercontent.com/ozertugrul/CodeFestHackathon/refs/heads/main/img/logo.png" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">CODEFESTHACKATHON - LLMCİNİ</h1></p>
 <p align="center">
 	<em> TherapyZ, yapay zeka destekli bir psikolojik destek platformudur. Kullanıcılara 7/24 erişilebilir, güvenli ve kişiselleştirilmiş terapi hizmeti sunar. Yapay zeka destekli sohbet sistemi sayesinde, kullanıcıların psikolojik durumlarını değerlendirmelerine ve destek almalarına yardımcı olur. </em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/abdullahdgn06/CodeFestHackathon?style=default&logo=apache&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/abdullahdgn06/CodeFestHackathon?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/abdullahdgn06/CodeFestHackathon?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/abdullahdgn06/CodeFestHackathon?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/ozertugrul/CodeFestHackathon?style=default&logo=apache&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/ozertugrul/CodeFestHackathon?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/ozertugrul/CodeFestHackathon?style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/ozertugrul/CodeFestHackathon?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -154,15 +154,15 @@ API: REST API (Local endpoint: http://0.0.0.0:1234/v1/chat/completions)
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/requirements.txt'>requirements.txt</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/requirements.txt'>requirements.txt</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/manage.py'>manage.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/manage.py'>manage.py</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/db.sqlite3'>db.sqlite3</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/db.sqlite3'>db.sqlite3</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -173,22 +173,22 @@ API: REST API (Local endpoint: http://0.0.0.0:1234/v1/chat/completions)
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/views.py'>views.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/views.py'>views.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/apps.py'>apps.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/apps.py'>apps.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/admin.py'>admin.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/admin.py'>admin.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/models.py'>models.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/models.py'>models.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/tests.py'>tests.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/tests.py'>tests.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/urls.py'>urls.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/urls.py'>urls.py</a></b></td>
 			</tr>
 			</table>
 			<details>
@@ -199,28 +199,28 @@ API: REST API (Local endpoint: http://0.0.0.0:1234/v1/chat/completions)
 						<blockquote>
 							<table>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/newchatbot.html'>newchatbot.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/newchatbot.html'>newchatbot.html</a></b></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/chatbot.html'>chatbot.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/chatbot.html'>chatbot.html</a></b></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/home.html'>home.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/home.html'>home.html</a></b></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/register.html'>register.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/register.html'>register.html</a></b></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/login.html'>login.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/login.html'>login.html</a></b></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/profile.html'>profile.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/profile.html'>profile.html</a></b></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/conversations_list.html'>conversations_list.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/conversations_list.html'>conversations_list.html</a></b></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/templates/ui/conversation_detail.html'>conversation_detail.html</a></b></td>
+								<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/templates/ui/conversation_detail.html'>conversation_detail.html</a></b></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -232,13 +232,13 @@ API: REST API (Local endpoint: http://0.0.0.0:1234/v1/chat/completions)
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/migrations/0003_psychologicalsurvey.py'>0003_psychologicalsurvey.py</a></b></td>
+						<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/migrations/0003_psychologicalsurvey.py'>0003_psychologicalsurvey.py</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/migrations/0001_initial.py'>0001_initial.py</a></b></td>
+						<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/migrations/0001_initial.py'>0001_initial.py</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/ui/migrations/0002_remove_conversation_user_name_conversation_user_and_more.py'>0002_remove_conversation_user_name_conversation_user_and_more.py</a></b></td>
+						<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/ui/migrations/0002_remove_conversation_user_name_conversation_user_and_more.py'>0002_remove_conversation_user_name_conversation_user_and_more.py</a></b></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -250,16 +250,16 @@ API: REST API (Local endpoint: http://0.0.0.0:1234/v1/chat/completions)
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/codefesthackathon/settings.py'>settings.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/codefesthackathon/settings.py'>settings.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/codefesthackathon/wsgi.py'>wsgi.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/codefesthackathon/wsgi.py'>wsgi.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/codefesthackathon/asgi.py'>asgi.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/codefesthackathon/asgi.py'>asgi.py</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/abdullahdgn06/CodeFestHackathon/blob/master/codefesthackathon/urls.py'>urls.py</a></b></td>
+				<td><b><a href='https://github.com/ozertugrul/CodeFestHackathon/blob/master/codefesthackathon/urls.py'>urls.py</a></b></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -285,7 +285,7 @@ Aşağıdaki yöntemlerden birini kullanarak CodeFestHackathon'u yükleyin:
 
 1. Clone the CodeFestHackathon repository:
 ```sh
-❯ git clone https://github.com/abdullahdgn06/CodeFestHackathon
+❯ git clone https://github.com/ozertugrul/CodeFestHackathon
 ```
 
 2. Proje dizinine gidin::
@@ -368,9 +368,9 @@ Aşağıdaki komutu kullanarak test takımını çalıştırın:
 
 ##  Contributing
 
-- **💬 [Join the Discussions](https://github.com/abdullahdgn06/CodeFestHackathon/discussions)**: Görüşlerinizi paylaşın, geri bildirimde bulunun veya soru sorun.
-- **🐛 [Report Issues](https://github.com/abdullahdgn06/CodeFestHackathon/issues)**: `CodeFestHackathon` projesi için bulunan hataları bildirin veya özellik isteklerini kaydedin.
-- **💡 [Submit Pull Requests](https://github.com/abdullahdgn06/CodeFestHackathon/blob/main/CONTRIBUTING.md)**: Açık PR'leri inceleyin ve kendi PR'lerinizi gönderin.
+- **💬 [Join the Discussions](https://github.com/ozertugrul/CodeFestHackathon/discussions)**: Görüşlerinizi paylaşın, geri bildirimde bulunun veya soru sorun.
+- **🐛 [Report Issues](https://github.com/ozertugrul/CodeFestHackathon/issues)**: `CodeFestHackathon` projesi için bulunan hataları bildirin veya özellik isteklerini kaydedin.
+- **💡 [Submit Pull Requests](https://github.com/ozertugrul/CodeFestHackathon/blob/main/CONTRIBUTING.md)**: Açık PR'leri inceleyin ve kendi PR'lerinizi gönderin.
 
 
 ### <summary>Contributing Guidelines</summary>
@@ -378,7 +378,7 @@ Aşağıdaki komutu kullanarak test takımını çalıştırın:
 1. **Fork the Repository**: Öncelikle proje deposunu GitHub hesabınıza aktarın.
 2. **Clone Locally**: Çatallanmış deponuzu bir git istemcisi kullanarak yerel makinenize kopyalayın
    ```sh
-   git clone https://github.com/abdullahdgn06/CodeFestHackathon
+   git clone https://github.com/ozertugrul/CodeFestHackathon
    ```
 3. **Create a New Branch**: Her zaman yeni bir dal üzerinde çalışın ve ona açıklayıcı bir isim verin.
    ```sh
@@ -401,7 +401,7 @@ Aşağıdaki komutu kullanarak test takımını çalıştırın:
 ### <summary>ER Diyagramı</summary>
 <br>
 <p align="left">
-<img src="https://raw.githubusercontent.com/abdullahdgn06/CodeFestHackathon/refs/heads/main/img/erd.png">
+<img src="https://raw.githubusercontent.com/ozertugrul/CodeFestHackathon/refs/heads/main/img/erd.png">
 
    
 </p>
@@ -410,8 +410,8 @@ Aşağıdaki komutu kullanarak test takımını çalıştırın:
 ### <summary>Katkıda Bulunanlar</summary>
 <br>
 <p align="left">
-   <a href="https://github.com/abdullahdgn06">
-      <img src="https://contrib.rocks/image?repo=abdullahdgn06/CodeFestHackathon">
+   <a href="https://github.com/ozertugrul">
+      <img src="https://contrib.rocks/image?repo=ozertugrul/CodeFestHackathon">
       
    </a>
    
